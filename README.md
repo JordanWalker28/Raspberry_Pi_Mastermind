@@ -1,4 +1,7 @@
 Overview
+
+A Second Year Assignment for the class Hardware Software Interface. This was a group project completed by myself and another student at Heriot Watt University. 
+
 For this assignment, we were required to implement a simple version of the MasterMind board-game using C and Assembly. The application needed to be run on a Raspberry Pi2, with the following attached devices: two LEDs, a button, and an LCD (with attached potentiometer). The devices should be connected to the RPi2 via a breadboard, using the RPi2 kit that was handed out early in the course. 
 The main aspects of the program are as follows;
 
